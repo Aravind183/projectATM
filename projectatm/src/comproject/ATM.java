@@ -77,7 +77,7 @@ public class ATM {
 			        System.out.println("Number of 10 rs notes is:"+(deposit%2000%500%200%100%20/10));
 			        System.out.println("Number of 5 rs notes is:"+(deposit%2000%500%200%100%20%10/5));
 			        System.out.println("Number of 1 rs notes is:"+(deposit%2000%500%200%100%20%10%5/1));
-			        System.out.println("withdraw succesfull:");
+			       
 		                       
 		         
 		         balance = balance + deposit;  
